@@ -19,9 +19,9 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 ## Results: 
 
 
-- **District Summary?**
+-   ### **District Summary**
 
-    Removal of Thomas High School 9th Grade scores made minor impact to the overall district summary.  Droping %Passing Math by 0.2%, reading by 0.3% and Overall by 0.1%.
+    Removal of Thomas High School 9th Grade scores made minor impact to the overall district summary; Dropping %Passing Math by 0.2%, Reading by 0.3% and Overall by 0.1%.
 
      *before*
      
@@ -31,9 +31,9 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
      ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/district_chal.PNG)
 
-- **School Summary*
+-   ### **School Summary**
     
-    THe only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Again, impact was only within tenths or hundredths of percentages.  Since the only changes made were to Thomas High School; Low Performing schools remain unchanged.
+    The only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Again, impact was only within tenths or hundredths of percentages.  Since the only changes made were to Thomas High School; Low Performing schools remain unchanged.
     
     **High performers**
     
@@ -55,7 +55,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/lowperform_chal.PNG)
 
-- **Thomas High School performance changes**
+-   ### **Thomas High School performance changes**
 
     As seen below, in an expanded list of all schools, the only changes were reflected on Thomas High School's percentages.
 
@@ -67,21 +67,21 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/schoolsummary_chal.PNG)
     
-- **Math and reading scores by grade**
+-   ### **Math and reading scores by grade**
     
     Below are the average scores by grade of each school; showing the NaN replacement for Thomas High School 9th grade.
     
-    **math by grade**
+    **Math Scores by grade**
     
      *before* ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_mod.PNG) *after* ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_chal.PNG)
 
-    **reading by grade**
+    **Reading Scores by grade**
     
      *before* ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_mod.PNG) *after* ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_chal.PNG)
 
-- **Scores by school spending**
+-   ### **Scores by school spending**
 
-    The THomas High School changes appear to have not changed the averages within spending ranges of schools.
+    The Thomas High School changes appear to have not changed the averages within spending ranges of schools.
 
      *before*
      
@@ -101,7 +101,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal2.PNG)
     
-- **Scores by school size**
+-   ### **Scores by school size**
 
     Same situation as the spending dataframes, it appears there was no change.
 
@@ -123,7 +123,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_chal2.PNG)
 
-- **Scores by school type**
+-   ### **Scores by school type**
 
     And last, changes appear not to make an impact to summaries by school type - Charter vs. District.
 
