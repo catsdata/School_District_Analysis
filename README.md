@@ -1,94 +1,109 @@
-# School_District_Analysis
-## Overview of the school district analysis: 
+# School District Analysis
+
+## Overview:
 Explain the purpose of this analysis.
 
 ## Results: 
 
 
-- **How is the district summary affected?
+- **How is the district summary affected?**
 
-      *before
-   ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/district_mod.PNG)
-      *after
-   ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/district_chal.PNG)
+     > *before*
+     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/district_mod.PNG)
+     
+     > *after*
+     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/district_chal.PNG)
 
-- **How is the school summary affected?
+- **How is the school summary affected?**
     
-    High performers
-      *before
+    **High performers**
+    
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/highperform_mod.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/highperform_chal.PNG)
     
-    Low performers
-      *before
+    **Low performers**
+
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/lowperform_mod.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/lowperform_chal.PNG)
 
-- **Thomas High School performance changes
+- **Thomas High School performance changes**
 
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/schoolsummary_mod.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/schoolsummary_chal.PNG)
     
-- **Math and reading scores by grade
+- **Math and reading scores by grade**
     
-    math by grade
+    **math by grade**
     
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_mod.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_chal.PNG)
 
-    reading by grade
+    **reading by grade**
     
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_mod.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_chal.PNG)
 
-- **Scores by school spending
+- **Scores by school spending**
 
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_mod1.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal1.PNG)
     
-    text
+    **text**
     
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_mod2.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal2.PNG)
     
-- **Scores by school size
+- **Scores by school size**
 
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_mod1.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_chal1.PNG)
     
-    text
+    **text**
     
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_mod2.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_chal2.PNG)
 
-- **Scores by school type
+- **Scores by school type**
 
-      *before
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_mod1.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_chal1.PNG)
     
-    text
+    **text**
     
-      *before 
+     > *before*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_mod2.PNG)
-      *after
+    
+     > *after*
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_chal2.PNG)
 
 ## Summary: 
