@@ -148,3 +148,5 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 ## Summary: 
 
 In Summary, removing the 9th grade Thomas High School grades made insignificant changes and we can assume that the grades were not fraudulent.  Changes to the District Summary, School Spending, School Size, and School Type all reflect the neglible changes we see to Thomas High School directly.  It is my recommendation that the original reports, including the 9th grade Thomas High School data, are used for reporting detail to the school board.
+
+Code can be accessed [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb) for the original, and [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) for the adjustment for Thomas High School.
