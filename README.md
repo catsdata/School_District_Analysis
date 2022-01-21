@@ -28,11 +28,11 @@ Using bulleted lists and images of DataFrames as support, address the following 
     
     math by grade
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_chal.PNG)
-    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_modl.PNG)
+    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/mathbygrade_mod.PNG)
     
     reading by grade
-    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_cha2.PNG)
-    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_mod2.PNG)
+    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_chal.PNG)
+    ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/readingbygrade_mod.PNG)
 
 - **Scores by school spending
 
