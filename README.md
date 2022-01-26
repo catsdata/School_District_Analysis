@@ -1,20 +1,31 @@
 # School District Analysis
 
-## Overview:
+## School District Analysis Overview:
 
 We have been provided data in regards to recent school and student performance on math and reading.  The School District has asked Maria and myself to analyze the data for the following detail:
 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
 - Tables presenting each of the following metrics:
-- Top 5 and bottom 5 performing schools, based on the overall passing rate
-- The average math score received by students in each grade level at each school
-- The average reading score received by students in each grade level at each school
-- School performance based on the budget per student
-- School performance based on the school size 
-- School performance based on the type of school
+
+    - Top 5 and bottom 5 performing schools, based on the overall passing rate
+    - The average math score received by students in each grade level at each school
+    - The average reading score received by students in each grade level at each school
+    - School performance based on the budget per student
+    - School performance based on the school size 
+    - School performance based on the type of school
 
 Before presenting the data, we were asked to rerun reports removing the 9th Grade data of Thomas High School as academic dishonesty was under investigation.  The below results show the data analysis before and after the removal of that data and its impacts.
+
+## Resources
+
+- Data Sources: [schools_complete.csv](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/schools_complete.csv) & [students_complete.csv](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/students_complete.csv)
+- Software: 
+    - Python 3.7.11
+        - Dependencies: Pandas 1.3.5 & Numpy 1.20.3  
+    - Anaconda Command line Client 1.9.0
+    - Conda 4.11.0
+    - Jupyter Notebook 6.4.6
 
 ## Results: 
 
