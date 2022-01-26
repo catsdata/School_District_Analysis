@@ -68,7 +68,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **Thomas High School performance changes**
 
-    As seen below, in an expanded list of all schools, the only changes were reflected on Thomas High School's stats.  Both reports do show the total number of students as 1635, however the caclculations on the grade averages and percentages were made using just the 10th, 11th, and 12th grade for a total of 1174 students.
+    As seen below, in an expanded list of all schools, the only changes were reflected on Thomas High School's stats.  Both reports do show the total number of students as 1635, however the calculations on the grade averages and percentages were made using just the 10th, 11th, and 12th grade for a total of 1174 students.
 
      *before*
      
@@ -158,6 +158,8 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 ## Summary: 
 
-In Summary, removing the 9th grade Thomas High School grades made very minor changes, within tenths and hundredths; however it is a consistent decrease in those numbers.  Changes to the District Summary, School Spending, School Size, and School Type all reflect the neglible changes we see to Thomas High School directly.  
+In Summary, removing the 9th grade Thomas High School grades made very minor changes, within tenths and hundredths; however it is a consistent decrease in those numbers.  Changes to the District Summary, School Spending, School Size, and School Type all reflect the neglible changes we see to Thomas High School directly.  Average reading scores showed a slight improvement, but overall percentages decreased.  If the there was indeed dishonesty in the 9th grade scores, the impact wasn't big enough to skew for any major changes.
 
-Code can be accessed [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb) for the original, and [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) for the adjustment for Thomas High School.
+![changes](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/changes.PNG)
+
+Code  from this analysis can be accessed [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb) for the original, and [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) for the adjustment for Thomas High School.
