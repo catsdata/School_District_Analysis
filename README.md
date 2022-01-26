@@ -174,4 +174,6 @@ In Summary, removing the 9th grade Thomas High School grades made very minor cha
 
 ![changes](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/changes.PNG)
 
-Code  from this analysis can be accessed [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb) for the original, and [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) for the adjustment for Thomas High School.
+Code from this analysis can be accessed at the following:
+    - [Original](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+    - [THS 9th Grade Removal](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
