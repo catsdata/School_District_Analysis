@@ -32,7 +32,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **District Summary**
 
-    Removal of Thomas High School 9th Grade scores made minor impact to the overall district summary; Dropping %Passing Math by 0.2%, Reading by 0.3% and Overall by 0.1%.
+    Removing the 9th Grade Thomas High School scores made minor impact to the overall district summary.  Percent Passing Math dropped by 0.2%, Reading dropped by 0.3% and Overall dropped by 0.1%.  However, all of those are decreases nonetheless indicating the Thomas High School 9th grade scores may have had a positive or skewed impact to the overalls.
 
      *before*
      
@@ -44,7 +44,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **School Summary**
     
-    The only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Again, impact was only within tenths or hundredths of percentages.  Since the only changes made were to Thomas High School; Low Performing schools remain unchanged.
+    The only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Average Math scores decreased by .06 and Average Reading increased by .05.  However all of the Percent Passing's decreased within tenths of percentages as they did in the District report: Math dropped by 0.1%, Reading dropped by 0.3% and Overall dropped by 0.3%   Since the only performance changes made were to Thomas High School; Low Performing schools remain unchanged.
     
     **High performers**
     
@@ -68,7 +68,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **Thomas High School performance changes**
 
-    As seen below, in an expanded list of all schools, the only changes were reflected on Thomas High School's percentages.
+    As seen below, in an expanded list of all schools, the only changes were reflected on Thomas High School's stats.  Both reports do show the total number of students as 1635, however the caclculations on the grade averages and percentages were made using just the 10th, 11th, and 12th grade for a total of 1174 students.
 
      *before*
      
@@ -80,7 +80,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
     
 -   ### **Math and reading scores by grade**
     
-    Below are the average scores by grade of each school; showing the NaN replacement for Thomas High School 9th grade.
+    Below are the average scores by grade of each school; showing the NaN replacement for *only* Thomas High School 9th grade.
     
     **Math Scores by grade**
     
@@ -92,7 +92,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **Scores by school spending**
 
-    The Thomas High School changes appear to have not changed the averages within spending ranges of schools.
+    Upon initial look, the Thomas High School changes appear to have not changed the averages within spending ranges of schools.
 
      *before*
      
@@ -102,7 +102,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal1.PNG)
     
-    However, if you expand the percentages, we again see the neglible tenths and hundredths decimal adjustments in the $630-$644 range where Thomas High School fits under.  
+    HOWEVER, if you expand the percentages, we again see the neglible tenths and hundredths decimal adjustments in the $630-$644 range where Thomas High School falls under.  
     
      *before*
      
