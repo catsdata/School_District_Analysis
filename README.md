@@ -1,5 +1,17 @@
 # School District Analysis
 
+1. [Overview](https://github.com/catsdata/School_District_Analysis#school-district-analysis-overview)
+2. [Resources](https://github.com/catsdata/School_District_Analysis#resources)
+3. [Results](https://github.com/catsdata/School_District_Analysis#results)
+    - [District Summary](https://github.com/catsdata/School_District_Analysis#district-summary)
+    - [School Summary](https://github.com/catsdata/School_District_Analysis#school-summary)
+    - [Thomas High School Changes](https://github.com/catsdata/School_District_Analysis#thomas-high-school-performance-changes)
+    - [Math and Reading Scores](https://github.com/catsdata/School_District_Analysis#math-and-reading-scores-by-grade)
+    - [Scores by School Spending](https://github.com/catsdata/School_District_Analysis#scores-by-school-spending)
+    - [Scores by School Size](https://github.com/catsdata/School_District_Analysis#scores-by-school-size)
+    - [Scores by School Type](https://github.com/catsdata/School_District_Analysis#scores-by-school-type)
+4. [Summary](https://github.com/catsdata/School_District_Analysis#summary)
+
 ## School District Analysis Overview:
 
 We have been provided data in regards to recent school and student performance on math and reading.  The School District has asked Maria and myself to analyze the data for the following detail:
