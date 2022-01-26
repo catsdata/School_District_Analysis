@@ -102,7 +102,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal1.PNG)
     
-    HOWEVER, if you expand the percentages, we again see the neglible tenths and hundredths decimal adjustments in the $630-$644 range where Thomas High School falls under.  
+    HOWEVER, if you expand the percentages, we again see the neglible decimal adjustments in the $630-$644 range where Thomas High School falls under.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.02%, Reading dropped by 0.08% and Overall dropped by 0.07%
     
      *before*
      
@@ -114,7 +114,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
     
 -   ### **Scores by school size**
 
-    Same situation as the spending dataframes, it appears there was no change.
+    Just as the school spending dataframes, it first appears that there was no change to the school size scores.
 
      *before*
      
@@ -124,7 +124,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_chal1.PNG)
     
-    But the expanded formatting again shows the minor adjustments to the Medium size schools that Thomas High is apart of.
+    HOWEVER, again the expanded formatting shows the minor adjustments to the Medium size schools that Thomas High is apart of.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.01%, Reading dropped by 0.06% and Overall dropped by 0.07%
     
      *before*
      
@@ -136,7 +136,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **Scores by school type**
 
-    And last, changes appear not to make an impact to summaries by school type - Charter vs. District.
+    And last, just as size and spending, changes appear not to make an impact to summaries by school type - Charter vs. District.
 
      *before*
      
@@ -146,7 +146,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_chal1.PNG)
     
-    Thomas High School is a Charter School, therefore when we expand the formatting we see the minor change impacts.
+    HOWEVER, Thomas High School is a Charter School, therefore when we expand the formatting we see the minor change impacts.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.01%, Reading dropped by 0.03% and Overall dropped by 0.04%
     
      *before*
      
@@ -158,6 +158,6 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 ## Summary: 
 
-In Summary, removing the 9th grade Thomas High School grades made insignificant changes and we can assume that the grades were not fraudulent.  Changes to the District Summary, School Spending, School Size, and School Type all reflect the neglible changes we see to Thomas High School directly.  It is my recommendation that the original reports, including the 9th grade Thomas High School data, are used for reporting detail to the school board.
+In Summary, removing the 9th grade Thomas High School grades made very minor changes, within tenths and hundredths; however it is a consistent decrease in those numbers.  Changes to the District Summary, School Spending, School Size, and School Type all reflect the neglible changes we see to Thomas High School directly.  
 
 Code can be accessed [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools.ipynb) for the original, and [HERE](https://github.com/catsdata/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) for the adjustment for Thomas High School.
