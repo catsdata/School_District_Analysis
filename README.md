@@ -44,7 +44,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
 
 -   ### **School Summary**
     
-    The only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Average Math scores decreased by .06 and Average Reading increased by .05.  However all of the Percent Passing's decreased within tenths of percentages as they did in the District report: Math dropped by 0.1%, Reading dropped by 0.3% and Overall dropped by 0.3%   Since the only performance changes made were to Thomas High School; Low Performing schools remain unchanged.
+    The only impact to the High Performers DataFrame is with Thomas High School, but not enough to bump it from its second place spot.  Average Math scores decreased by .07 and Average Reading increased by .05.  However all of the Percent Passing's decreased within tenths of percentages as they did in the District report: Math dropped by 0.09%, Reading dropped by 0.29% and Overall dropped by 0.32%   Since the only performance changes made were to Thomas High School; Low Performing schools remain unchanged.
     
     **High performers**
     
@@ -102,7 +102,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbyspend_chal1.PNG)
     
-    HOWEVER, if you expand the percentages, we again see the neglible decimal adjustments in the $630-$644 range where Thomas High School falls under.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.02%, Reading dropped by 0.08% and Overall dropped by 0.07%
+    HOWEVER, if you expand the percentages, we again see the neglible decimal adjustments in the $630-$644 range where Thomas High School falls under.  Average Math scores decreased by .02 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.02%, Reading dropped by 0.07% and Overall dropped by 0.08%
     
      *before*
      
@@ -124,7 +124,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbysize_chal1.PNG)
     
-    HOWEVER, again the expanded formatting shows the minor adjustments to the Medium size schools that Thomas High is apart of.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.01%, Reading dropped by 0.06% and Overall dropped by 0.07%
+    HOWEVER, again the expanded formatting shows the minor adjustments to the Medium size schools that Thomas High is apart of.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.02%, Reading dropped by 0.06% and Overall dropped by 0.06%
     
      *before*
      
@@ -146,7 +146,7 @@ Before presenting the data, we were asked to rerun reports removing the 9th Grad
      
     ![This is an image](https://github.com/catsdata/School_District_Analysis/blob/main/Resources/scoresbytype_chal1.PNG)
     
-    HOWEVER, Thomas High School is a Charter School, therefore when we expand the formatting we see the minor change impacts.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.01%, Reading dropped by 0.03% and Overall dropped by 0.04%
+    HOWEVER, Thomas High School is a Charter School, therefore when we expand the formatting we see the minor change impacts.  Average Math scores decreased by .01 and Average Reading increased by .01.  However all of the Percent Passing's decreased within hundreths of percentages: Math dropped by 0.01%, Reading dropped by 0.04% and Overall dropped by 0.04%
     
      *before*
      
